@@ -1,0 +1,6 @@
+numpy: 2.0.2
+nibable: 5.3.3
+nilearn: 0.13.1
+matplotlib: 3.10.0
+ants: 0.6.3
+torch: 2.10.0=cu128
